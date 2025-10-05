@@ -6,3 +6,4 @@ networkx
 matplotlib
 groq
 python-dotenv
+pyvis
